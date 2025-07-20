@@ -31,6 +31,7 @@ char codigo2 [50];
 char estado2 [50];
 
 //cadastro carta1
+
 printf("Vamos começar o cadastro das Cartas.\n");
 printf("\n\n");
 printf("Vamos ao cadastro da carta numero 1.");
