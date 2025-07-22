@@ -9,12 +9,9 @@ float area1,pib1;
 char capital1 [50];
 char codigo1 [50];
 char pais1 [50];
-    
-
 //carta2 
     //demorei um pouco me lembrar que cada caso é um caso e uma minima alteraçao nos codigos ja transfoma em um responsavel por novos dados kk 
     //no caso populaçao1 e populacao 2 podem servir pra armazenar o mesmo tipo de dados com valores diferentes de paíss diferentes
-
 int populacao2,turisticos2;
 float area2,pib2;
 char capital2 [50],codigo2 [50],pais2 [50];
