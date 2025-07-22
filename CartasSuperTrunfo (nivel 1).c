@@ -4,11 +4,10 @@
 int main (){
 
     //carta1
+    //lembrei que da pra abreviar desta forma ao inves de encher o codigo de Char, char ,int, int...
 int populacao1,turisticos1;
 float area1,pib1;
-char capital1 [50];
-char codigo1 [50];
-char pais1 [50];
+char capital1 [50],codigo1 [50],pais1 [50];
 //carta2 
     //demorei um pouco me lembrar que cada caso é um caso e uma minima alteraçao nos codigos ja transfoma em um responsavel por novos dados kk 
     //no caso populaçao1 e populacao 2 podem servir pra armazenar o mesmo tipo de dados com valores diferentes de paíss diferentes
